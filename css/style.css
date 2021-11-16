@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: turquoise;
+    height: 50px;
+    line-height: 50px;
+}
+header h1{
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
